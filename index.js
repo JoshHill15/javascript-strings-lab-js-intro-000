@@ -4,7 +4,7 @@ var specialGuest = "Neil deGrasse Tyson"
 
 var greetSpecialGuest = "" + specialGuest + "!";
 
-var topic = "Let's talk about space.";
+var topic = "space";
 
 
 var conversation = `${topic}`;
@@ -17,5 +17,4 @@ var topic = " Let's talk about space.";
 
 topic
 console.greeting
-topic
-var topic = "Let's talk about space."
+"Let's talk about ${"space"}."
