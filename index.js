@@ -17,4 +17,4 @@ var topic = " Let's talk about space.";
 topic
 console.greeting
 topic
-topic = "Let's talk about space."
+var topic = "Let's talk about space."
